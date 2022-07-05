@@ -147,4 +147,3 @@ class Scrape
 
 $scrape = new Scrape();
 $scrape->run();
-
