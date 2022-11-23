@@ -13,7 +13,7 @@ class Scrape
    
     public function run(): void
     {  
-        git $result = [];
+        $result = [];
         file_put_contents('output.json', json_encode($result));
     }
 }
