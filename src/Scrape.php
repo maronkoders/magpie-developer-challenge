@@ -27,17 +27,17 @@ class Scrape
                             $product->filter('div.my-4 > div.-mx-2 > div.px-2')->each(function (Crawler $color) use ($product) 
                                 {   
                                         $productObj = new Product();
-                                        $this->smartphones$smartphoness[]  = $productObj->properties($product, $color);
+                                        $this->smartphones[]  = $productObj->properties($product, $color);
                                 });    
                         });
                   
                 } catch (\InvalidArgumentException $e) {
-                    echo 'failed to scrape product data ' . $e->getMessage() . $e->getMessage();
+                    echo 'failed to scrape smartphone data data ' . $e->getMessage() . $e->getMessage();
                 }
             });
         }
 
-        $result = $this->dedup($this->smartphones$smartphoness);
+        $result = $this->dedup($this->smartphones);
 
         file_put_contents('output.json', json_encode($result));
     }
