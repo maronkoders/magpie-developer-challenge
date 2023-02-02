@@ -1,1 +1,1010 @@
-[{"title":"iPhone 11 Pro 64 GB","price":"799.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/iphone-11-pro.png","capacityMB":64000,"color":"green","availabilityText":"Out of Stock","isAvailable":false,"shippingText":"","shippingDate":""},{"title":"iPhone 11 64GB","price":"699.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/iphone-11.png","capacityMB":64000,"color":"black","availabilityText":"In Stock at B90 4SB","isAvailable":true,"shippingText":"Unavailable for delivery","shippingDate":""},{"title":"iPhone 11 64GB","price":"699.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/iphone-11.png","capacityMB":64000,"color":"white","availabilityText":"In Stock at B90 4SB","isAvailable":true,"shippingText":"Unavailable for delivery","shippingDate":""},{"title":"iPhone 12 Pro Max 128GB","price":"1099.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/iphone-12-pro.png","capacityMB":128000,"color":"sky blue","availabilityText":"In Stock Online","isAvailable":true,"shippingText":"Delivery by 2022-07-06","shippingDate":"2022-07-06"},{"title":"Samsung Galaxy S20 128GB","price":"849.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/s-20.png","capacityMB":128000,"color":"grey","availabilityText":"In Stock","isAvailable":true,"shippingText":"Available on 12 Jul 2022","shippingDate":"2022-07-12"},{"title":"Huawei P30 Pro 128GB","price":"699.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/p-30.png","capacityMB":128000,"color":"black","availabilityText":"In Stock","isAvailable":true,"shippingText":"Free Shipping","shippingDate":""},{"title":"Nokia 3310 100MB","price":"99.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png","capacityMB":100,"color":"orange","availabilityText":"Out of Stock","isAvailable":false,"shippingText":"Delivery from 2022-08-04","shippingDate":"2022-08-04"},{"title":"Nokia 3310 100MB","price":"99.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png","capacityMB":100,"color":"yellow","availabilityText":"Out of Stock","isAvailable":false,"shippingText":"Delivery from 2022-08-04","shippingDate":"2022-08-04"},{"title":"Nokia 3310 100MB","price":"99.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png","capacityMB":100,"color":"grey","availabilityText":"Out of Stock","isAvailable":false,"shippingText":"Delivery from 2022-08-04","shippingDate":"2022-08-04"},{"title":"Nokia 3310 100MB","price":"99.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/nokia-3310.png","capacityMB":100,"color":"blue","availabilityText":"Out of Stock","isAvailable":false,"shippingText":"Delivery from 2022-08-04","shippingDate":"2022-08-04"},{"title":"Google Pixel 5 256 GB","price":"749.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/pixel-5.png","capacityMB":256000,"color":"black","availabilityText":"In Stock","isAvailable":true,"shippingText":"Delivers 2022-07-05","shippingDate":"2022-07-05"},{"title":"Sony Xperia 10 32 GB","price":"449.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/sony-xperia.png","capacityMB":32000,"color":"black","availabilityText":"In Stock","isAvailable":true,"shippingText":"Free Shipping","shippingDate":""},{"title":"Samsung Galaxy Flip 128GB","price":"1699.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/flip.png","capacityMB":128000,"color":"slate grey","availabilityText":"Out of Stock","isAvailable":false,"shippingText":"","shippingDate":""},{"title":"Samsung Galaxy S20 128GB","price":"849.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/s-20.png","capacityMB":128000,"color":"black","availabilityText":"In Stock","isAvailable":true,"shippingText":"Free Delivery 2022-07-06","shippingDate":"2022-07-06"},{"title":"Oppo Reno4 Pro 5G 64 GB","price":"749.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/oppo-reno.png","capacityMB":64000,"color":"blue","availabilityText":"In Stock","isAvailable":true,"shippingText":"Free Delivery","shippingDate":""},{"title":"Huawei P Smart 64GB","price":"399.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/huawei-p-smart.png","capacityMB":64000,"color":"black","availabilityText":"In Stock","isAvailable":true,"shippingText":"Free Delivery tomorrow","shippingDate":"2022-07-06"},{"title":"Google Pixel 4 64 GB","price":"499.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/pixel-5.png","capacityMB":64000,"color":"black","availabilityText":"In Stock","isAvailable":true,"shippingText":"Delivers Tuesday 5th Jul 2022","shippingDate":"2022-07-05"},{"title":"Google Pixel 4 64 GB","price":"499.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/pixel-5.png","capacityMB":64000,"color":"white","availabilityText":"In Stock","isAvailable":true,"shippingText":"Delivers Tuesday 5th Jul 2022","shippingDate":"2022-07-05"},{"title":"LG K42 128 GB","price":"499.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/lg-k42.png","capacityMB":128000,"color":"black","availabilityText":"In Stock","isAvailable":true,"shippingText":"Order within 6 hours and have it Thursday 7th Jul 2022","shippingDate":"2022-07-07"},{"title":"Samsung Galaxy S20 64GB","price":"799.99","imageUrl":"https:\/\/www.magpiehq.com\/developer-challenge\/images\/s-20.png","capacityMB":64000,"color":"grey","availabilityText":"In Stock","isAvailable":true,"shippingText":"Free Delivery 2022-07-06","shippingDate":"2022-07-06"}]
+[
+    {
+      "details": "RAHA COOKING OIL 2L",
+      "product_link": "https://www.spar.co.zw/products/128431/raha-cooking-oil-2l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/128431-Thumb.jpg);",
+      "price": "USD$4.02"
+    },
+    {
+      "details": "MAZOE ORANGE CRUSH ORIGINAL 2L",
+      "product_link": "https://www.spar.co.zw/products/2996/mazoe-orange-crush-original-2l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/2996-Thumb.jpg);",
+      "price": "USD$3.08"
+    },
+    {
+      "details": "COLGATE CDC TOOTHPASTE 100ML",
+      "product_link": "https://www.spar.co.zw/products/99993523/colgate-cdc-toothpaste-100ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99993523-Thumb.jpg);",
+      "price": "USD$0.89"
+    },
+    {
+      "details": "GOLD STAR WHITE SUGAR 2KG",
+      "product_link": "https://www.spar.co.zw/products/99997543/gold-star-white-sugar-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99997543-Thumb.jpg);",
+      "price": "USD$2.39"
+    },
+    {
+      "details": "SPAR UHT FULL CREAM MILK 1L",
+      "product_link": "https://www.spar.co.zw/products/4096/spar-uht-full-cream-milk-1l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/4096-Thumb.jpg);",
+      "price": "USD$1.43"
+    },
+    {
+      "details": "HULETTS BROWN SUGAR 2KG",
+      "product_link": "https://www.spar.co.zw/products/13193/huletts-brown-sugar-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/13193-Thumb.jpg);",
+      "price": "USD$2.39"
+    },
+    {
+      "details": "TOMATOES LOOSE KG",
+      "product_link": "https://www.spar.co.zw/products/98732/tomatoes-loose-kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/98732-Thumb.jpg);",
+      "price": "USD$0.80"
+    },
+    {
+      "details": "MAHATMA RICE 2KG",
+      "product_link": "https://www.spar.co.zw/products/4790/mahatma-rice-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/4790-Thumb.jpg);",
+      "price": "USD$3.38"
+    },
+    {
+      "details": "BANANAS KG",
+      "product_link": "https://www.spar.co.zw/products/99164/bananas-kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99164-Thumb.jpg);",
+      "price": "USD$0.62"
+    },
+    {
+      "details": "GLORIA SELF RAISING FLOUR 2KG",
+      "product_link": "https://www.spar.co.zw/products/4070/gloria-self-raising-flour-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/4070-Thumb.jpg);",
+      "price": "USD$2.71"
+    },
+    {
+      "details": "SPAR HOMEMADE BOEREWORS 500G",
+      "product_link": "https://www.spar.co.zw/products/130415/spar-homemade-boerewors-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/130415-Thumb.jpg);",
+      "price": "USD$3.45"
+    },
+    {
+      "details": "RED SEAL TABLE SALT 2KG",
+      "product_link": "https://www.spar.co.zw/products/1145/red-seal-table-salt-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/1145-Thumb.jpg);",
+      "price": "USD$1.25"
+    },
+    {
+      "details": "ROYCO USAVI MIX BEEF FLAV 75G",
+      "product_link": "https://www.spar.co.zw/products/6686/royco-usavi-mix-beef-flav-75g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/6686-Thumb.jpg);",
+      "price": "USD$0.43"
+    },
+    {
+      "details": "SUN PURE MIXED FRUIT JAM 500G",
+      "product_link": "https://www.spar.co.zw/products/7009/sun-pure-mixed-fruit-jam-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/7009-Thumb.jpg);",
+      "price": "USD$1.61"
+    },
+    {
+      "details": "CABBAGES EACH",
+      "product_link": "https://www.spar.co.zw/products/98780/cabbages-each",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/98780-Thumb.jpg);",
+      "price": "USD$0.59"
+    },
+    {
+      "details": "ONIONS LOOSE KG",
+      "product_link": "https://www.spar.co.zw/products/98769/onions-loose-kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/98769-Thumb.jpg);",
+      "price": "USD$1.47"
+    },
+    {
+      "details": "IRVINES EGGS MIXED SIZE SHRINK WRAP 30S",
+      "product_link": "https://www.spar.co.zw/products/121281/irvines-eggs-mixed-size-shrink-wrap-30s",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/121281-Thumb.jpg);",
+      "price": "USD$5.30"
+    },
+    {
+      "details": "CASHEL VALLEY BAKED BEANS 410G",
+      "product_link": "https://www.spar.co.zw/products/2617/cashel-valley-baked-beans-410g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/2617-Thumb.jpg);",
+      "price": "USD$1.16"
+    },
+    {
+      "details": "BRITE LITE LAUNDRY BAR 1KG",
+      "product_link": "https://www.spar.co.zw/products/99994169/brite-lite-laundry-bar-1kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99994169-Thumb.jpg);",
+      "price": "USD$1.31"
+    },
+    {
+      "details": "SAVEMOR TOILET TISSUE 1PLY 4S",
+      "product_link": "https://www.spar.co.zw/products/12039/savemor-toilet-tissue-1ply-4s",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/12039-Thumb.jpg);",
+      "price": "USD$1.26"
+    },
+    {
+      "details": "RABROY TOMATO SAUCE 375ML",
+      "product_link": "https://www.spar.co.zw/products/99998118/rabroy-tomato-sauce-375ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99998118-Thumb.jpg);",
+      "price": "USD$0.96"
+    },
+    {
+      "details": "MAZOE BLACKBERRY ORIGINAL 2L EACH",
+      "product_link": "https://www.spar.co.zw/products/2997/mazoe-blackberry-original-2l-each",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/2997-Thumb.jpg);",
+      "price": "USD$2.61"
+    },
+    {
+      "details": "EKONO SPAGHETTI 400G",
+      "product_link": "https://www.spar.co.zw/products/132828/ekono-spaghetti-400g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/132828-Thumb.jpg);",
+      "price": "USD$0.57"
+    },
+    {
+      "details": "LOBELS PRIME LOAF",
+      "product_link": "https://www.spar.co.zw/products/100308/lobels-prime-loaf",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/100308-Thumb.jpg);",
+      "price": "USD$1.08"
+    },
+    {
+      "details": "NESTLE CREMORA COFFEE CREAMER 1KG",
+      "product_link": "https://www.spar.co.zw/products/225/nestle-cremora-coffee-creamer-1kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/225-Thumb.jpg);",
+      "price": "USD$3.70"
+    },
+    {
+      "details": "RED SEAL PEARLENTA 10KG",
+      "product_link": "https://www.spar.co.zw/products/4051/red-seal-pearlenta-10kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/4051-Thumb.jpg);",
+      "price": "USD$7.62"
+    },
+    {
+      "details": "VASELINE BLUE SEAL NO1 PJ ORIGINAL 100ML",
+      "product_link": "https://www.spar.co.zw/products/10799/vaseline-blue-seal-no1-pj-original-100ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/10799-Thumb.jpg);",
+      "price": "USD$1.14"
+    },
+    {
+      "details": "POTATOES KG",
+      "product_link": "https://www.spar.co.zw/products/98774/potatoes-kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/98774-Thumb.jpg);",
+      "price": "USD$0.82"
+    },
+    {
+      "details": "TANGANDA TAGLESS TEABAGS 100S",
+      "product_link": "https://www.spar.co.zw/products/8492/tanganda-tagless-teabags-100s",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/8492-Thumb.jpg);",
+      "price": "USD$4.86"
+    },
+    {
+      "details": "CHARHONS ATHLONE LOOSE BUSCUIT 500G",
+      "product_link": "https://www.spar.co.zw/products/668/charhons-athlone-loose-buscuit-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/668-Thumb.jpg);",
+      "price": "USD$1.43"
+    },
+    {
+      "details": "SPAR BATH SOAP FOREST GREEN 250G",
+      "product_link": "https://www.spar.co.zw/products/103572/spar-bath-soap-forest-green-250g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/103572-Thumb.jpg);",
+      "price": "USD$1.00"
+    },
+    {
+      "details": "LOBELS LEMON CREAMS 150G",
+      "product_link": "https://www.spar.co.zw/products/1143/lobels-lemon-creams-150g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/1143-Thumb.jpg);",
+      "price": "USD$0.62"
+    },
+    {
+      "details": "RED SEAL WHITE RICE 2KG",
+      "product_link": "https://www.spar.co.zw/products/99994059/red-seal-white-rice-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99994059-Thumb.jpg);",
+      "price": "USD$2.97"
+    },
+    {
+      "details": "WILLARDS SMOOOTH PEANUT BUTTER 375ML",
+      "product_link": "https://www.spar.co.zw/products/7002/willards-smoooth-peanut-butter-375ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/7002-Thumb.jpg);",
+      "price": "USD$3.13"
+    },
+    {
+      "details": "RUGANI CARROTS SACHET 1KG",
+      "product_link": "https://www.spar.co.zw/products/6948/rugani-carrots-sachet-1kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/6948-Thumb.jpg);",
+      "price": "USD$1.20"
+    },
+    {
+      "details": "BETTER WASHING POWDER 500G",
+      "product_link": "https://www.spar.co.zw/products/128875/better-washing-powder-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/128875-Thumb.jpg);",
+      "price": "USD$0.84"
+    },
+    {
+      "details": "BUTTERCUP MARGARINE BRICK 500G",
+      "product_link": "https://www.spar.co.zw/products/13300/buttercup-margarine-brick-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/13300-Thumb.jpg);",
+      "price": "USD$1.46"
+    },
+    {
+      "details": "PROTON SUPERIOR WHITE LOAF",
+      "product_link": "https://www.spar.co.zw/products/99995745/proton-superior-white-loaf",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99995745-Thumb.jpg);",
+      "price": "USD$1.09"
+    },
+    {
+      "details": "red seal roller meal 10kg",
+      "product_link": "https://www.spar.co.zw/products/4050/red-seal-roller-meal-10kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/4050-Thumb.jpg);",
+      "price": "USD$6.67"
+    },
+    {
+      "details": "RED SEAL IODISED SALT 1KG",
+      "product_link": "https://www.spar.co.zw/products/625/red-seal-iodised-salt-1kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/625-Thumb.jpg);",
+      "price": "USD$0.66"
+    },
+    {
+      "details": "COCA COLA PET 2L",
+      "product_link": "https://www.spar.co.zw/products/99992699/coca-cola-pet-2l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99992699-Thumb.jpg);",
+      "price": "USD$1.80"
+    },
+    {
+      "details": "LOBELS MARIE BISCUITS 150G",
+      "product_link": "https://www.spar.co.zw/products/104343/lobels-marie-biscuits-150g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/104343-Thumb.jpg);",
+      "price": "USD$0.54"
+    },
+    {
+      "details": "MAZOE RASPBERRY ORIGINAL 2L",
+      "product_link": "https://www.spar.co.zw/products/2993/mazoe-raspberry-original-2l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/2993-Thumb.jpg);",
+      "price": "USD$2.48"
+    },
+    {
+      "details": "SPAR BATH SOAP ROSE 250G",
+      "product_link": "https://www.spar.co.zw/products/103569/spar-bath-soap-rose-250g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/103569-Thumb.jpg);",
+      "price": "USD$1.00"
+    },
+    {
+      "details": "BAKERS INN SUPERIOR WHITE LOAF",
+      "product_link": "https://www.spar.co.zw/products/99995673/bakers-inn-superior-white-loaf",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99995673-Thumb.jpg);",
+      "price": "USD$1.01"
+    },
+    {
+      "details": "CROSS N BLACKWELL TANGY MAYONNAISE 750G",
+      "product_link": "https://www.spar.co.zw/products/99993453/cross-n-blackwell-tangy-mayonnaise-750g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99993453-Thumb.jpg);",
+      "price": "USD$2.76"
+    },
+    {
+      "details": "ORANGES LOOSE KG",
+      "product_link": "https://www.spar.co.zw/products/99995719/oranges-loose-kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99995719-Thumb.jpg);",
+      "price": "USD$1.44"
+    },
+    {
+      "details": "RED SEAL SUGAR BEANS 500G",
+      "product_link": "https://www.spar.co.zw/products/4791/red-seal-sugar-beans-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/4791-Thumb.jpg);",
+      "price": "USD$0.98"
+    },
+    {
+      "details": "WILLARDS THINGZ 150G",
+      "product_link": "https://www.spar.co.zw/products/9071/willards-thingz-150g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/9071-Thumb.jpg);",
+      "price": "USD$0.60"
+    },
+    {
+      "details": "PROBRANDS MASI 500ML",
+      "product_link": "https://www.spar.co.zw/products/4227/probrands-masi-500ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/4227-Thumb.jpg);",
+      "price": "USD$0.65"
+    },
+    {
+      "details": "SPAR CHICKEN MIXED PORTION 2KG",
+      "product_link": "https://www.spar.co.zw/products/12817/spar-chicken-mixed-portion-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/12817-Thumb.jpg);",
+      "price": "USD$8.13"
+    },
+    {
+      "details": "POTATOES UNWASHED 10KG",
+      "product_link": "https://www.spar.co.zw/products/110010/potatoes-unwashed-10kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/No-Image-available.jpg);",
+      "price": "USD$6.51"
+    },
+    {
+      "details": "SPAR BROWN BREAD",
+      "product_link": "https://www.spar.co.zw/products/105148/spar-brown-bread",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/105148-Thumb.jpg);",
+      "price": "USD$0.82"
+    },
+    {
+      "details": "SPAR BATH SOAP OCEAN FRESH 250G",
+      "product_link": "https://www.spar.co.zw/products/114899/spar-bath-soap-ocean-fresh-250g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/114899-Thumb.jpg);",
+      "price": "USD$1.00"
+    },
+    {
+      "details": "PROBRANDS POPCORN 500G",
+      "product_link": "https://www.spar.co.zw/products/6078/probrands-popcorn-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/6078-Thumb.jpg);",
+      "price": "USD$0.84"
+    },
+    {
+      "details": "GREEN BEANS PNT",
+      "product_link": "https://www.spar.co.zw/products/98891/green-beans-pnt",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/98891-Thumb.jpg);",
+      "price": "USD$0.65"
+    },
+    {
+      "details": "BAKERS INN SUPERIOR BROWN BREAD",
+      "product_link": "https://www.spar.co.zw/products/99995675/bakers-inn-superior-brown-bread",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99995675-Thumb.jpg);",
+      "price": "USD$1.01"
+    },
+    {
+      "details": "LOBELS VANILLA CREAMS BISCUITS 150G",
+      "product_link": "https://www.spar.co.zw/products/1130/lobels-vanilla-creams-biscuits-150g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/1130-Thumb.jpg);",
+      "price": "USD$0.62"
+    },
+    {
+      "details": "SAVEMOR CANDLES 450G",
+      "product_link": "https://www.spar.co.zw/products/99992439/savemor-candles-450g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99992439-Thumb.jpg);",
+      "price": "USD$2.18"
+    },
+    {
+      "details": "MAZOE CREAM SODA ORIGINAL 2L",
+      "product_link": "https://www.spar.co.zw/products/2989/mazoe-cream-soda-original-2l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/2989-Thumb.jpg);",
+      "price": "USD$2.48"
+    },
+    {
+      "details": "DENDAIRY FULL CREAM MILK 1L",
+      "product_link": "https://www.spar.co.zw/products/101787/dendairy-full-cream-milk-1l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/101787-Thumb.jpg);",
+      "price": "USD$1.61"
+    },
+    {
+      "details": "SAVEMOR MARGARINE LOW FAT SPREAD 500G",
+      "product_link": "https://www.spar.co.zw/products/13257/savemor-margarine-low-fat-spread-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/13257-Thumb.jpg);",
+      "price": "USD$1.50"
+    },
+    {
+      "details": "SAVONUTS SUGAR BEANS 500G",
+      "product_link": "https://www.spar.co.zw/products/104283/savonuts-sugar-beans-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/104283-Thumb.jpg);",
+      "price": "USD$1.82"
+    },
+    {
+      "details": "RAPE BUNCH EACH",
+      "product_link": "https://www.spar.co.zw/products/98837/rape-bunch-each",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/98837-Thumb.jpg);",
+      "price": "USD$0.24"
+    },
+    {
+      "details": "LOBELS CUSTARD CREAMS 150G",
+      "product_link": "https://www.spar.co.zw/products/1141/lobels-custard-creams-150g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/1141-Thumb.jpg);",
+      "price": "USD$0.62"
+    },
+    {
+      "details": "SPAR WHITE BREAD",
+      "product_link": "https://www.spar.co.zw/products/18205/spar-white-bread",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/18205-Thumb.jpg);",
+      "price": "USD$0.82"
+    },
+    {
+      "details": "EVERYDAY POWDERED MILK 400G",
+      "product_link": "https://www.spar.co.zw/products/114940/everyday-powdered-milk-400g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/114940-Thumb.jpg);",
+      "price": "USD$4.32"
+    },
+    {
+      "details": "BUTTERNUTS KG",
+      "product_link": "https://www.spar.co.zw/products/98876/butternuts-kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/No-Image-available.jpg);",
+      "price": "USD$1.84"
+    },
+    {
+      "details": "LOBELS WHOLE WHEAT BREAD",
+      "product_link": "https://www.spar.co.zw/products/104647/lobels-whole-wheat-bread",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/104647-Thumb.jpg);",
+      "price": "USD$1.08"
+    },
+    {
+      "details": "MEGA SPAGHETTI 400G",
+      "product_link": "https://www.spar.co.zw/products/112362/mega-spaghetti-400g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/112362-Thumb.jpg);",
+      "price": "USD$0.63"
+    },
+    {
+      "details": "SAVEMOR RICE 2KG",
+      "product_link": "https://www.spar.co.zw/products/99992422/savemor-rice-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99992422-Thumb.jpg);",
+      "price": "USD$2.07"
+    },
+    {
+      "details": "RED SEAL POPCORN 500G",
+      "product_link": "https://www.spar.co.zw/products/4418/red-seal-popcorn-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/4418-Thumb.jpg);",
+      "price": "USD$0.71"
+    },
+    {
+      "details": "FRENCH STICK",
+      "product_link": "https://www.spar.co.zw/products/99281/french-stick",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99281-Thumb.jpg);",
+      "price": "USD$0.48"
+    },
+    {
+      "details": "GOLD STAR OLD FASHIONED BROWN 1KG",
+      "product_link": "https://www.spar.co.zw/products/7129/gold-star-old-fashioned-brown-1kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/7129-Thumb.jpg);",
+      "price": "USD$1.66"
+    },
+    {
+      "details": "APPLES CRISP PINK ECONO 1.5KG LOCAL",
+      "product_link": "https://www.spar.co.zw/products/131597/apples-crisp-pink-econo-15kg-local",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/No-Image-available.jpg);",
+      "price": "USD$2.44"
+    },
+    {
+      "details": "BLUE RIBBON SELF RAISING FLOUR 2KG",
+      "product_link": "https://www.spar.co.zw/products/6346/blue-ribbon-self-raising-flour-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/6346-Thumb.jpg);",
+      "price": "USD$2.11"
+    },
+    {
+      "details": "NESCAFE RICOFFY GRANULE 250G",
+      "product_link": "https://www.spar.co.zw/products/2722/nescafe-ricoffy-granule-250g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/2722-Thumb.jpg);",
+      "price": "USD$4.51"
+    },
+    {
+      "details": "HAKA INSTANT NOODLES CHICKEN 80G",
+      "product_link": "https://www.spar.co.zw/products/18906/haka-instant-noodles-chicken-80g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/18906-Thumb.jpg);",
+      "price": "USD$0.57"
+    },
+    {
+      "details": "LOOSE EGGS LARGE",
+      "product_link": "https://www.spar.co.zw/products/106243/loose-eggs-large",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/106243-Thumb.jpg);",
+      "price": "USD$0.18"
+    },
+    {
+      "details": "SPOTLESS BLEACH DOUBLE XX LEMON FRESH 750ML",
+      "product_link": "https://www.spar.co.zw/products/123691/spotless-bleach-double-xx-lemon-fresh-750ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/123691-Thumb.jpg);",
+      "price": "USD$1.52"
+    },
+    {
+      "details": "LETTUCE HEAD EACH",
+      "product_link": "https://www.spar.co.zw/products/102305/lettuce-head-each",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/102305-Thumb.jpg);",
+      "price": "USD$0.57"
+    },
+    {
+      "details": "COLCOM TASTEE PORK POLONY 250G",
+      "product_link": "https://www.spar.co.zw/products/100952/colcom-tastee-pork-polony-250g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/100952-Thumb.jpg);",
+      "price": "USD$1.17"
+    },
+    {
+      "details": "SPOTDEAL DISHWASHER 750ML",
+      "product_link": "https://www.spar.co.zw/products/101836/spotdeal-dishwasher-750ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/101836-Thumb.jpg);",
+      "price": "USD$1.52"
+    },
+    {
+      "details": "TWINSAVER TOILET ROLLS LUXURY 2PLY 9S",
+      "product_link": "https://www.spar.co.zw/products/99992535/twinsaver-toilet-rolls-luxury-2ply-9s",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99992535-Thumb.jpg);",
+      "price": "USD$8.65"
+    },
+    {
+      "details": "JUNGLE OATS BOX 1KG",
+      "product_link": "https://www.spar.co.zw/products/99994384/jungle-oats-box-1kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99994384-Thumb.jpg);",
+      "price": "USD$8.73"
+    },
+    {
+      "details": "SPAR BATH SOAP WHITE JASMINE 250G",
+      "product_link": "https://www.spar.co.zw/products/103571/spar-bath-soap-white-jasmine-250g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/103571-Thumb.jpg);",
+      "price": "USD$1.00"
+    },
+    {
+      "details": "SPAR THAI WHITE RICE 2KG",
+      "product_link": "https://www.spar.co.zw/products/99999004/spar-thai-white-rice-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99999004-Thumb.jpg);",
+      "price": "USD$2.64"
+    },
+    {
+      "details": "TANGANDA TIPS TEABAG 100S 250G",
+      "product_link": "https://www.spar.co.zw/products/99998738/tanganda-tips-teabag-100s-250g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99998738-Thumb.jpg);",
+      "price": "USD$3.03"
+    },
+    {
+      "details": "DOMESTOS LAVENDER BLAST 750ML",
+      "product_link": "https://www.spar.co.zw/products/98667/domestos-lavender-blast-750ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/98667-Thumb.jpg);",
+      "price": "USD$2.68"
+    },
+    {
+      "details": "IRVINES CHICKENS MIXED PORTIONS 2KG",
+      "product_link": "https://www.spar.co.zw/products/12855/irvines-chickens-mixed-portions-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/12855-Thumb.jpg);",
+      "price": "USD$8.84"
+    },
+    {
+      "details": "FARMSTYLE TOMATO PUREE 410G",
+      "product_link": "https://www.spar.co.zw/products/128260/farmstyle-tomato-puree-410g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/128260-Thumb.jpg);",
+      "price": "USD$1.04"
+    },
+    {
+      "details": "KARINGA USAVI MIX BEEF 50G EACH",
+      "product_link": "https://www.spar.co.zw/products/115666/karinga-usavi-mix-beef-50g-each",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/115666-Thumb.jpg);",
+      "price": "USD$0.35"
+    },
+    {
+      "details": "ENGLISH CUCUMBERS EACH",
+      "product_link": "https://www.spar.co.zw/products/99056/english-cucumbers-each",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99056-Thumb.jpg);",
+      "price": "USD$1.19"
+    },
+    {
+      "details": "DAIRIBOARD MAHEWU PFUKO UDIWO TRAD 500ML",
+      "product_link": "https://www.spar.co.zw/products/105387/dairiboard-mahewu-pfuko-udiwo-trad-500ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/105387-Thumb.jpg);",
+      "price": "USD$0.57"
+    },
+    {
+      "details": "RHODES BAKED BEANS IN TOMATO SAUCE 410",
+      "product_link": "https://www.spar.co.zw/products/99997319/rhodes-baked-beans-in-tomato-sauce-410",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99997319-Thumb.jpg);",
+      "price": "USD$1.45"
+    },
+    {
+      "details": "BETTER BUY MACARONI 400G",
+      "product_link": "https://www.spar.co.zw/products/110303/better-buy-macaroni-400g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/110303-Thumb.jpg);",
+      "price": "USD$0.76"
+    },
+    {
+      "details": "LOBELS HIGH FIBRE LOAF",
+      "product_link": "https://www.spar.co.zw/products/100614/lobels-high-fibre-loaf",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/100614-Thumb.jpg);",
+      "price": "USD$1.08"
+    },
+    {
+      "details": "STORK COUNTRY SPREAD TUB 500G",
+      "product_link": "https://www.spar.co.zw/products/13265/stork-country-spread-tub-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/13265-Thumb.jpg);",
+      "price": "USD$3.16"
+    },
+    {
+      "details": "FANTA ORANGE 2L",
+      "product_link": "https://www.spar.co.zw/products/4861/fanta-orange-2l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/4861-Thumb.jpg);",
+      "price": "USD$1.80"
+    },
+    {
+      "details": "BONAQUA MINERAL WATER 5L",
+      "product_link": "https://www.spar.co.zw/products/128261/bonaqua-mineral-water-5l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/128261-Thumb.jpg);",
+      "price": "USD$1.48"
+    },
+    {
+      "details": "GINGER MADEIRA",
+      "product_link": "https://www.spar.co.zw/products/130866/ginger-madeira",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/130866-Thumb.jpg);",
+      "price": "USD$1.65"
+    },
+    {
+      "details": "RAHA COOKMORE VEG COOKING OIL 2L",
+      "product_link": "https://www.spar.co.zw/products/137843/raha-cookmore-veg-cooking-oil-2l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/137843-Thumb.jpg);",
+      "price": "USD$4.02"
+    },
+    {
+      "details": "SPAR UHT LOW FAT MILK 2% 1L",
+      "product_link": "https://www.spar.co.zw/products/4095/spar-uht-low-fat-milk-2-1l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/4095-Thumb.jpg);",
+      "price": "USD$1.43"
+    },
+    {
+      "details": "BETTER VALUE TOILETS TISSUE 4S",
+      "product_link": "https://www.spar.co.zw/products/132825/better-value-toilets-tissue-4s",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/132825-Thumb.jpg);",
+      "price": "USD$1.24"
+    },
+    {
+      "details": "CARROTS PNT EACH",
+      "product_link": "https://www.spar.co.zw/products/98883/carrots-pnt-each",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/98883-Thumb.jpg);",
+      "price": "USD$0.65"
+    },
+    {
+      "details": "BOKOMO CORN FLAKES VITAM E 500G EACH",
+      "product_link": "https://www.spar.co.zw/products/1444/bokomo-corn-flakes-vitam-e-500g-each",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/1444-Thumb.jpg);",
+      "price": "USD$5.12"
+    },
+    {
+      "details": "CRYSTAL TOP TEN SWEETS 300G",
+      "product_link": "https://www.spar.co.zw/products/7887/crystal-top-ten-sweets-300g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/7887-Thumb.jpg);",
+      "price": "USD$1.50"
+    },
+    {
+      "details": "ROYAL OCEAN PILCHARDS IN CHILLI SAUCE 155G",
+      "product_link": "https://www.spar.co.zw/products/1754/royal-ocean-pilchards-in-chilli-sauce-155g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/1754-Thumb.jpg);",
+      "price": "USD$1.47"
+    },
+    {
+      "details": "PROTON BISCUITS COOKIES 500G",
+      "product_link": "https://www.spar.co.zw/products/118560/proton-biscuits-cookies-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/118560-Thumb.jpg);",
+      "price": "USD$1.79"
+    },
+    {
+      "details": "LEMONS IMPORTED KG",
+      "product_link": "https://www.spar.co.zw/products/99095/lemons-imported-kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99095-Thumb.jpg);",
+      "price": "USD$1.60"
+    },
+    {
+      "details": "NATRA FRESH ROOIBOS 80S",
+      "product_link": "https://www.spar.co.zw/products/109699/natra-fresh-rooibos-80s",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/109699-Thumb.jpg);",
+      "price": "USD$5.13"
+    },
+    {
+      "details": "GEISHA SOAP WHITE N HONEY 225G",
+      "product_link": "https://www.spar.co.zw/products/123579/geisha-soap-white-n-honey-225g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/123579-Thumb.jpg);",
+      "price": "USD$1.22"
+    },
+    {
+      "details": "PROTON WHOLE MEAL BREAD",
+      "product_link": "https://www.spar.co.zw/products/99995748/proton-whole-meal-bread",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99995748-Thumb.jpg);",
+      "price": "USD$1.09"
+    },
+    {
+      "details": "DAIRIBOARD STERI MILK 500ML",
+      "product_link": "https://www.spar.co.zw/products/13217/dairiboard-steri-milk-500ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/13217-Thumb.jpg);",
+      "price": "USD$0.95"
+    },
+    {
+      "details": "DAIRIBORD SUPER LACTO 500ML",
+      "product_link": "https://www.spar.co.zw/products/12581/dairibord-super-lacto-500ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/12581-Thumb.jpg);",
+      "price": "USD$0.83"
+    },
+    {
+      "details": "PROBRANDS SUGAR BEANS 500G",
+      "product_link": "https://www.spar.co.zw/products/23788/probrands-sugar-beans-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/23788-Thumb.jpg);",
+      "price": "USD$1.08"
+    },
+    {
+      "details": "SUGAR RING DOUGHNUT",
+      "product_link": "https://www.spar.co.zw/products/99313/sugar-ring-doughnut",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99313-Thumb.jpg);",
+      "price": "USD$0.29"
+    },
+    {
+      "details": "BABY SOFT 2PLY SILKY SOFT WHITE 350S 4S",
+      "product_link": "https://www.spar.co.zw/products/99997036/baby-soft-2ply-silky-soft-white-350s-4s",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99997036-Thumb.jpg);",
+      "price": "USD$4.35"
+    },
+    {
+      "details": "BETTER PEANUT BUTTER 375ML",
+      "product_link": "https://www.spar.co.zw/products/128852/better-peanut-butter-375ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/128852-Thumb.jpg);",
+      "price": "USD$1.20"
+    },
+    {
+      "details": "LOBELS LEMON CREAMS BISC 200G",
+      "product_link": "https://www.spar.co.zw/products/1129/lobels-lemon-creams-bisc-200g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/1129-Thumb.jpg);",
+      "price": "USD$1.07"
+    },
+    {
+      "details": "COVO BUNCH",
+      "product_link": "https://www.spar.co.zw/products/98841/covo-bunch",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/No-Image-available.jpg);",
+      "price": "USD$0.23"
+    },
+    {
+      "details": "CHICKEN DRUMSTICKS KG",
+      "product_link": "https://www.spar.co.zw/products/97670/chicken-drumsticks-kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/97670-Thumb.jpg);",
+      "price": "USD$6.01"
+    },
+    {
+      "details": "LOBELS STRAWBERRY CREAMS 150G",
+      "product_link": "https://www.spar.co.zw/products/1142/lobels-strawberry-creams-150g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/1142-Thumb.jpg);",
+      "price": "USD$0.62"
+    },
+    {
+      "details": "SABLE CHICKEN MIXED PORTIONS 1KG",
+      "product_link": "https://www.spar.co.zw/products/125531/sable-chicken-mixed-portions-1kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/125531-Thumb.jpg);",
+      "price": "USD$4.32"
+    },
+    {
+      "details": "DAIRIBOARD YOGHURT BANANA 150ML",
+      "product_link": "https://www.spar.co.zw/products/13561/dairiboard-yoghurt-banana-150ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/13561-Thumb.jpg);",
+      "price": "USD$0.59"
+    },
+    {
+      "details": "WILLARDS JUPITERS KINGSIZE 150G",
+      "product_link": "https://www.spar.co.zw/products/101484/willards-jupiters-kingsize-150g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/101484-Thumb.jpg);",
+      "price": "USD$0.60"
+    },
+    {
+      "details": "ZIMBRITE LAUNDRY BAR WRAPPED 1KG",
+      "product_link": "https://www.spar.co.zw/products/123624/zimbrite-laundry-bar-wrapped-1kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/123624-Thumb.jpg);",
+      "price": "USD$1.09"
+    },
+    {
+      "details": "STELLA TAGLESS TEABAG 100S",
+      "product_link": "https://www.spar.co.zw/products/8497/stella-tagless-teabag-100s",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/8497-Thumb.jpg);",
+      "price": "USD$3.42"
+    },
+    {
+      "details": "BOOM WASHING POWDER SACHET 2KG",
+      "product_link": "https://www.spar.co.zw/products/101766/boom-washing-powder-sachet-2kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/101766-Thumb.jpg);",
+      "price": "USD$6.90"
+    },
+    {
+      "details": "KELLOGGS CORN FLAKES 500G",
+      "product_link": "https://www.spar.co.zw/products/1539/kelloggs-corn-flakes-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/1539-Thumb.jpg);",
+      "price": "USD$3.92"
+    },
+    {
+      "details": "WHOLE CHICKEN KG",
+      "product_link": "https://www.spar.co.zw/products/97668/whole-chicken-kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/97668-Thumb.jpg);",
+      "price": "USD$7.23"
+    },
+    {
+      "details": "COLCOM COUNTRY STYLE BOEREWORS 500G",
+      "product_link": "https://www.spar.co.zw/products/12795/colcom-country-style-boerewors-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/12795-Thumb.jpg);",
+      "price": "USD$6.34"
+    },
+    {
+      "details": "JUMBO KAPENTA 250G",
+      "product_link": "https://www.spar.co.zw/products/7662/jumbo-kapenta-250g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/7662-Thumb.jpg);",
+      "price": "USD$3.46"
+    },
+    {
+      "details": "CRYSTAL GAIETY PACK 75G",
+      "product_link": "https://www.spar.co.zw/products/178/crystal-gaiety-pack-75g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/178-Thumb.jpg);",
+      "price": "USD$0.51"
+    },
+    {
+      "details": "CHARHONS MILK CHOC COATED BISCUITS 250G",
+      "product_link": "https://www.spar.co.zw/products/99992879/charhons-milk-choc-coated-biscuits-250g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99992879-Thumb.jpg);",
+      "price": "USD$1.43"
+    },
+    {
+      "details": "FUJI APPLES KG",
+      "product_link": "https://www.spar.co.zw/products/99130/fuji-apples-kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99130-Thumb.jpg);",
+      "price": "USD$1.87"
+    },
+    {
+      "details": "PEPSI REGULAR SOFT DRINK 500ML",
+      "product_link": "https://www.spar.co.zw/products/3442/pepsi-regular-soft-drink-500ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/3442-Thumb.jpg);",
+      "price": "USD$0.42"
+    },
+    {
+      "details": "PROBRANDS SOUR SAWA MILK 500ML",
+      "product_link": "https://www.spar.co.zw/products/112395/probrands-sour-sawa-milk-500ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/112395-Thumb.jpg);",
+      "price": "USD$0.58"
+    },
+    {
+      "details": "SPAR MARGARINE TUB 500G",
+      "product_link": "https://www.spar.co.zw/products/13256/spar-margarine-tub-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/13256-Thumb.jpg);",
+      "price": "USD$3.88"
+    },
+    {
+      "details": "CADBURY CHOCOLATE TOP DECK 80G EACH",
+      "product_link": "https://www.spar.co.zw/products/106442/cadbury-chocolate-top-deck-80g-each",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/106442-Thumb.jpg);",
+      "price": "USD$1.63"
+    },
+    {
+      "details": "PROTON BISCUITS COOKIES 250G",
+      "product_link": "https://www.spar.co.zw/products/118561/proton-biscuits-cookies-250g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/118561-Thumb.jpg);",
+      "price": "USD$0.91"
+    },
+    {
+      "details": "CRYSTAL FRUIT DROPS 75G",
+      "product_link": "https://www.spar.co.zw/products/7923/crystal-fruit-drops-75g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/7923-Thumb.jpg);",
+      "price": "USD$0.51"
+    },
+    {
+      "details": "PLAIN CROISSANT",
+      "product_link": "https://www.spar.co.zw/products/130870/plain-croissant",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/130870-Thumb.jpg);",
+      "price": "USD$0.50"
+    },
+    {
+      "details": "RED SEAL PEANUT BUTTER 375G",
+      "product_link": "https://www.spar.co.zw/products/7000/red-seal-peanut-butter-375g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/7000-Thumb.jpg);",
+      "price": "USD$1.85"
+    },
+    {
+      "details": "MAZOE PEACH SYRUP ORIGINAL 2L",
+      "product_link": "https://www.spar.co.zw/products/2991/mazoe-peach-syrup-original-2l",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/2991-Thumb.jpg);",
+      "price": "USD$2.48"
+    },
+    {
+      "details": "SPOTLESS THICK BLEACH SUMMER FRESH 750ML",
+      "product_link": "https://www.spar.co.zw/products/118518/spotless-thick-bleach-summer-fresh-750ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/118518-Thumb.jpg);",
+      "price": "USD$1.52"
+    },
+    {
+      "details": "HAKA INSTANT NOODLES BEEF FLAV 80G",
+      "product_link": "https://www.spar.co.zw/products/18905/haka-instant-noodles-beef-flav-80g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/18905-Thumb.jpg);",
+      "price": "USD$0.57"
+    },
+    {
+      "details": "BOOM WASHING POWDER 1KG",
+      "product_link": "https://www.spar.co.zw/products/2248/boom-washing-powder-1kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/2248-Thumb.jpg);",
+      "price": "USD$3.60"
+    },
+    {
+      "details": "CHEEKY CHILLI SWEET SMOKEY SAUCE 100ML",
+      "product_link": "https://www.spar.co.zw/products/124833/cheeky-chilli-sweet-smokey-sauce-100ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/124833-Thumb.jpg);",
+      "price": "USD$1.18"
+    },
+    {
+      "details": "PROBRANDS CANDLES 6S",
+      "product_link": "https://www.spar.co.zw/products/99992530/probrands-candles-6s",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99992530-Thumb.jpg);",
+      "price": "USD$2.41"
+    },
+    {
+      "details": "KEFALOS SMOOTH YOGHURT BANANA 150ML",
+      "product_link": "https://www.spar.co.zw/products/102817/kefalos-smooth-yoghurt-banana-150ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/102817-Thumb.jpg);",
+      "price": "USD$0.76"
+    },
+    {
+      "details": "SPAR MARGARINE BRICK 500G",
+      "product_link": "https://www.spar.co.zw/products/13253/spar-margarine-brick-500g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/13253-Thumb.jpg);",
+      "price": "USD$3.64"
+    },
+    {
+      "details": "SPAR BATH SOAP LEMON 250G",
+      "product_link": "https://www.spar.co.zw/products/103570/spar-bath-soap-lemon-250g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/103570-Thumb.jpg);",
+      "price": "USD$1.00"
+    },
+    {
+      "details": "BLACKFOREST CAKE 8INCH",
+      "product_link": "https://www.spar.co.zw/products/105882/blackforest-cake-8inch",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/105882-Thumb.jpg);",
+      "price": "USD$7.89"
+    },
+    {
+      "details": "STAR SPAGHETTI 400G",
+      "product_link": "https://www.spar.co.zw/products/100828/star-spaghetti-400g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/100828-Thumb.jpg);",
+      "price": "USD$1.15"
+    },
+    {
+      "details": "KING KURLS CHICKEN 100G",
+      "product_link": "https://www.spar.co.zw/products/100646/king-kurls-chicken-100g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/100646-Thumb.jpg);",
+      "price": "USD$0.57"
+    },
+    {
+      "details": "DETTOL ORIGINAL 175G",
+      "product_link": "https://www.spar.co.zw/products/9617/dettol-original-175g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/9617-Thumb.jpg);",
+      "price": "USD$1.60"
+    },
+    {
+      "details": "MADRAS HOT CURRY COMPOUND 50G",
+      "product_link": "https://www.spar.co.zw/products/99999238/madras-hot-curry-compound-50g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99999238-Thumb.jpg);",
+      "price": "USD$0.60"
+    },
+    {
+      "details": "KNORR CREAM OF CHICKEN SOUP 50G",
+      "product_link": "https://www.spar.co.zw/products/99995167/knorr-cream-of-chicken-soup-50g",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99995167-Thumb.jpg);",
+      "price": "USD$0.35"
+    },
+    {
+      "details": "NOVA 2 PLY TISSUE 200 SHEETS 9S",
+      "product_link": "https://www.spar.co.zw/products/134096/nova-2-ply-tissue-200-sheets-9s",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/134096-Thumb.jpg);",
+      "price": "USD$5.40"
+    },
+    {
+      "details": "NESCAFE RICCOFFY CHICORY N COFFEE 100G EACH",
+      "product_link": "https://www.spar.co.zw/products/114194/nescafe-riccoffy-chicory-n-coffee-100g-each",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/114194-Thumb.jpg);",
+      "price": "USD$3.32"
+    },
+    {
+      "details": "CHICKEN WINGS KG",
+      "product_link": "https://www.spar.co.zw/products/98227/chicken-wings-kg",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/98227-Thumb.jpg);",
+      "price": "USD$5.55"
+    },
+    {
+      "details": "ZLG PURE WATER 500ML",
+      "product_link": "https://www.spar.co.zw/products/15868/zlg-pure-water-500ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/15868-Thumb.jpg);",
+      "price": "USD$0.16"
+    },
+    {
+      "details": "COCA COLA CAN 330ML",
+      "product_link": "https://www.spar.co.zw/products/2325/coca-cola-can-330ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/2325-Thumb.jpg);",
+      "price": "USD$0.68"
+    },
+    {
+      "details": "BAKERS INN WHOLE WHEAT LOAF",
+      "product_link": "https://www.spar.co.zw/products/99996323/bakers-inn-whole-wheat-loaf",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/99996323-Thumb.jpg);",
+      "price": "USD$1.01"
+    },
+    {
+      "details": "CASCADE ORANGE DAIRY FRUIT MIX 400ML",
+      "product_link": "https://www.spar.co.zw/products/3524/cascade-orange-dairy-fruit-mix-400ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/3524-Thumb.jpg);",
+      "price": "USD$0.46"
+    },
+    {
+      "details": "CADBURY DAIRY MILK CHOCOLATE 80G EACH",
+      "product_link": "https://www.spar.co.zw/products/107041/cadbury-dairy-milk-chocolate-80g-each",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/107041-Thumb.jpg);",
+      "price": "USD$1.70"
+    },
+    {
+      "details": "HANDY ANDY CREAM LAVENDER 750ML",
+      "product_link": "https://www.spar.co.zw/products/6206/handy-andy-cream-lavender-750ml",
+      "image": "background-image:url(https://cdn.spar.co.zw/data/6206-Thumb.jpg);",
+      "price": "USD$2.68"
+    }
+  ]

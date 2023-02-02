@@ -3,41 +3,39 @@
 namespace App;
 
 require 'vendor/autoload.php';
-
-
 use Symfony\Component\DomCrawler\Crawler;
 
-class Scrape
-{
+class Scrape {
     use Utils;
     
-    private array $smartphone = [];
-    private const PAGES = 3;
+    private array $products = [];
+    private const PAGES = 6;
+    private array $attributes = [];
    
-    public function run(): void
-    {  
-        for($a=1;  $a <= SELF::PAGES ; $a++)
-        {
+    private function extractImageUrl($imageText) {
+        return $imageText;
+    }
+    public function run(): void {
 
-            // trying to fetch data on the url by referering to the base url in utils
-            $items = ScrapeHelper::fetchitems($this->baseUrl.'developer-challenge/smartphones/?page='.$a);
-            $items->filter(' div.mb-12')->each(function (Crawler $node)
-            {
-                
-                  $node->filter(' div.rounded-md')->each(function (Crawler $item)
-                        {
-                            $item->filter('div.my-4 > div.-mx-2 > div.px-2')->each(function (Crawler $color) use ($item) 
-                                {   
-                                        $itemObj = new item();
-                                        $this->smartphone[]  = $itemObj->properties($item, $color);
-                                });    
+        for($a = 0;  $a <= SELF::PAGES ; $a++) {
+            $pages = ScrapeHelper::fetchDocument($this->baseUrl.'/products?pg='.$a);
+            $pages->filter('div.listing.grid-listing.product-listing')->each(function (Crawler $node) {
+                  $node->filter('li')->each(function (Crawler $item) {
+
+                            $this->attributes['details'] = $item->filter('div.listing-details p')->text();
+                            $this->attributes['product_link'] = $this->baseUrl.$item->filterXPath('.//div[contains(concat(" ",normalize-space(@class)," ")," listing-image ")]//a')->attr('href');
+                            $image = $item->filterXPath('.//div[contains(concat(" ",normalize-space(@class)," ")," listing-image ")]//a')->attr('style');
+                            $this->attributes['image'] = $this->extractImageUrl($image);
+                            $this->attributes['price'] = $item->filter('div.product-links > div > strong')->text();
+                            $this->products[] = $this->attributes;
                         });
-                  
-                
             });
         }
-
-        $result = $this->smartphone;
-
+        
+        $result = $this->products;
         file_put_contents('output.json', json_encode($result));
     }
+}
+
+$scrape = new Scrape();
+$scrape->run();
